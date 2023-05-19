@@ -1,7 +1,5 @@
-# KDT 코딩온 풀스택 웹개발 부트캠프 6기
-
 # 프론트엔드 프로젝트 'todays-account-book'
-
+![image](https://github.com/kangminhyuk1111/todays-account-book/assets/96116158/31633c2d-d48e-4999-a217-77c3fd84b10c)
 ---
 
 ## '힘내조'의 프론트엔드 프로젝트
