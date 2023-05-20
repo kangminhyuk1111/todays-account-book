@@ -30,7 +30,30 @@
 
 - 모든 페이지는 반응형으로 제작하였다.
 
-# 기능 기술
+## 구현 기능 영상 및 설명
+
+'**튜토리얼 및 설문조사와 반응형css**' 작업을 맡아서 진행, 
+
+메인 포함 **대부분의 페이지** 작업.
+
+첫 메인페이지에서 **사용경험 유무 확인**.
+
+사용경험이 있다면 바로 **가계부**로, 사용경험이 없다면 **설문조사**를 시작.
+설문조사를 바탕으로 **소비 태그** 부여.
+
+![ezgif com-video-to-gif (14)](https://github.com/kangminhyuk1111/todays-account-book/assets/96116158/ebd4b239-7fa2-407b-815a-7a621e233a09)
+
+사용자 경험을 위한 **튜토리얼**
+
+![ezgif com-video-to-gif (15)](https://github.com/kangminhyuk1111/todays-account-book/assets/96116158/d507f6f7-802d-4342-82a3-0de537a498ad)
+
+날짜 선택후 **입금, 지출 내역 기입**
+
+![ezgif com-video-to-gif (16)](https://github.com/kangminhyuk1111/todays-account-book/assets/96116158/d2792971-fc0d-4264-a692-402dc8eae966)
+
+소비태그에 따른 **추천 게시글**
+
+![ezgif com-video-to-gif (17)](https://github.com/kangminhyuk1111/todays-account-book/assets/96116158/447c07d5-f894-490b-b0ce-5c0d2a20b6eb)
 
 ## 강민혁
 
@@ -40,26 +63,6 @@
 - 사용자 성향별 소비태그 부여
 - 모든 페이지 반응형 작업
 - 팀원 임무 분담
-
-## 정지영
-
-- start page - animate 로 구성
-- main 사용 설명서 - sweetalert2 사용
-- 맞춤형 생활 정보 - quertString 으로 받아온 값을 js으로 받아냄
-
-## 이효리
-
-- 캘린더와 리스트 부분
-- 세부적 디자인(다크모드) 전 데이터
-- jquery (click, html(): innerHTML)
-
-## 정세희
-
-- 지출/수입 정보 입력 부분
-- display: none에서 날짜를 클릭하면 입금과 지출이 display flex로 나타나짐.
-- 입금 버튼을 누르면 입금 함수가 flex, if 문으로 조건 맞춤.
-
-## 기능 구성
 
 ### 튜토리얼
 
