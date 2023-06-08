@@ -1,6 +1,6 @@
 ![ezgif com-video-to-gif (14)](https://github.com/kangminhyuk1111/todays-account-book/assets/96116158/f5f48cca-b69e-4e64-87d5-a7d7ab578191)
 
-# 프론트엔드 프로젝트 'todays-account-book'
+# 프론트엔드 프로젝트 'todays account book'
 ---
 
 ## '힘내조'의 프론트엔드 프로젝트
